@@ -8,6 +8,7 @@ public class TestClass {
 	public void test()
 	{
 		System.out.println("this is test class");
+		System.out.println("To see conflicts");
 	}
 
 }
